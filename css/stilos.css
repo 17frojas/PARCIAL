@@ -1,0 +1,40 @@
+  #b1{
+
+
+
+ 	border: 2px solid;
+ 	border-radius: 12px ;
+
+ 	background-color:rgb(30,0,0);
+
+ }
+
+ #b2{
+ 	
+
+ 	border: 2px solid;
+ 	border-radius: 2px ;
+
+ }
+
+ #b3{
+ 	
+
+ 	border: 2px solid;
+ 	border-radius: 2px ;
+
+ }
+
+p,h5{
+	text-align: center;
+border: 2px solid grey;
+background-color: dimgrey;
+
+}
+
+
+#escuela{
+    position: fixed;
+    top: 90px;
+    left: 700px;
+}
